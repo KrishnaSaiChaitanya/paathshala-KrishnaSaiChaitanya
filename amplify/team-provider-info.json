@@ -1,0 +1,27 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify7edc81358d8e4-staging-135304-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596109967064:role/amplify-amplify7edc81358d8e4-staging-135304-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596109967064:role/amplify-amplify7edc81358d8e4-staging-135304-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-amplify7edc81358d8e4-staging-135304-deployment",
+      "UnauthRoleName": "amplify-amplify7edc81358d8e4-staging-135304-unauthRole",
+      "StackName": "amplify-amplify7edc81358d8e4-staging-135304",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:596109967064:stack/amplify-amplify7edc81358d8e4-staging-135304/c31cd290-1d96-11ee-a2fd-06110c19363a",
+      "AmplifyAppId": "d20d9sqjyt44ic"
+    },
+    "categories": {
+      "function": {
+        "jobseekers": {
+          "deploymentBucketName": "amplify-amplify7edc81358d8e4-staging-135304-deployment",
+          "s3Key": "amplify-builds/jobseekers-68425133546b5a4c4e4d-build.zip"
+        }
+      },
+      "api": {
+        "SiddharthGuptapaathshalatestForm": {},
+        "jobs": {}
+      }
+    }
+  }
+}

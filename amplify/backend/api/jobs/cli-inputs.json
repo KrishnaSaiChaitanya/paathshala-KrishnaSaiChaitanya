@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/jobseekers": {
+      "name": "/jobseekers",
+      "lambdaFunction": "jobseekers",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

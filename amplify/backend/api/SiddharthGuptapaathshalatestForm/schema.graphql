@@ -1,0 +1,14 @@
+type Testing @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+}
+
+type Jobs @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+  email: String
+  phone: String
+  title: String
+  comment: String
+}
+ 
